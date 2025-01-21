@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "ams",
+=======
+  "name": "am-system",
+>>>>>>> 81da93b (Initial commit)
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
